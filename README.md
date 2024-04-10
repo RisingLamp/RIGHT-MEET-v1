@@ -42,17 +42,18 @@ npm install
 
 ### Run the Application
 
-Start the development server: ``` npm start ```
+Start the development server: 
+``` npm start ```
 This will run the application on a local server, typically accessible at http://localhost:3000 (the port may vary).
 
 ### Contributing
 
 We welcome contributions to RIGHT MEET!
 
--Fork the repository on GitHub.
--Create a new branch for your feature or bug fix.
--Implement your changes and write clear commit messages.
--Submit a pull request for review.
+- Fork the repository on GitHub.
+- Create a new branch for your feature or bug fix.
+- Implement your changes and write clear commit messages.
+- Submit a pull request for review.
 
 ### License
 RIGHT MEET is licensed under the MIT License
