@@ -2,7 +2,7 @@
 
 RIGHT MEET is a meeting application designed to simplify and enhance your online collaboration experience.
 
-This project is hosted on Netify: (Test Mode)[https://right-meet.netlify.app]
+This project is hosted on Netify: [Test Mode](https://right-meet.netlify.app)
 ## Features
 
 - **Effortless Scheduling**: Schedule meetings with ease and invite participants via email.
