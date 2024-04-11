@@ -4,7 +4,8 @@
 
 ### Logo Design: Pooja Mahatre (soon)
 
-This project is hosted on Netify: [Test Mode](https://right-meet.netlify.app)
+### This project is hosted on Netify: [Try NOW](https://right-meet.netlify.app)
+
 ## Features
 
 - **Effortless Scheduling**: Schedule meetings with ease and invite participants via email.
@@ -19,8 +20,6 @@ This project is hosted on Netify: [Test Mode](https://right-meet.netlify.app)
 - Database: Firebase Database
 - Search: Elastic
 - Routing: React Router DOM
-
-Live Website: (to soon)
 
 ## Getting Started
 
