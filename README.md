@@ -1,9 +1,10 @@
 # RIGHT MEET - The Streamlined Meeting App (v1)
 
-RIGHT MEET is a meeting application designed to simplify and enhance your online collaboration experience.
+## RIGHT MEET is a meeting application designed to simplify and enhance your online collaboration experience.
 
-This project is hosted on GitHub: (to be soon)
+### Logo Design: Pooja Mahatre (soon)
 
+This project is hosted on Netify: [Test Mode](https://right-meet.netlify.app)
 ## Features
 
 - **Effortless Scheduling**: Schedule meetings with ease and invite participants via email.
@@ -20,8 +21,6 @@ This project is hosted on GitHub: (to be soon)
 - Routing: React Router DOM
 
 Live Website: (to soon)
-
-Logo Design: Pooja Mahatre
 
 ## Getting Started
 
